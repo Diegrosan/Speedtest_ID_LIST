@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speedtest_servers>
+    <region name="São Paulo">
+        <server>
+            <provider>Hostzone</provider>
+            <city>São Paulo</city>
+            <id>43144</id>
+        </server>
+        <server>
+            <provider>Claro Net Vírtua</provider>
+            <city>Guarulhos</city>
+            <id>22249</id>
+        </server>
+    </region>
+
+    <region name="Rio de Janeiro">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Rio de Janeiro</city>
+            <id>3065</id>
+        </server>
+    </region>
+
+    <region name="Minas Gerais">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Belo Horizonte</city>
+            <id>12564</id>
+        </server>
+    </region>
+
+    <region name="Paraná">
+        <server>
+            <provider>Claro Net Vírtua</provider>
+            <city>Curitiba</city>
+            <id>21939</id>
+        </server>
+    </region>
+
+    <region name="Rio Grande do Sul">
+        <server>
+            <provider>Claro Net Vírtua</provider>
+            <city>Porto Alegre</city>
+            <id>14143</id>
+        </server>
+    </region>
+
+    <region name="Bahia">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Salvador</city>
+            <id>12561</id>
+        </server>
+    </region>
+
+    <region name="Pernambuco">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Recife</city>
+            <id>12558</id>
+        </server>
+    </region>
+
+    <region name="Ceará">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Fortaleza</city>
+            <id>33146</id>
+        </server>
+    </region>
+
+    <region name="Rio Grande do Norte">
+        <server>
+            <provider>Claro Móvel NTL</provider>
+            <city>Natal</city>
+            <id>61188</id>
+        </server>
+    </region>
+
+    <region name="Paraíba">
+        <server>
+            <provider>Claro Móvel JPA</provider>
+            <city>João Pessoa</city>
+            <id>56525</id>
+        </server>
+    </region>
+
+    <region name="Amazonas">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Manaus</city>
+            <id>12562</id>
+        </server>
+    </region>
+
+    <region name="Goiás">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Goiânia</city>
+            <id>26091</id>
+        </server>
+    </region>
+
+    <region name="Distrito Federal">
+        <server>
+            <provider>TIM Brasil</provider>
+            <city>Brasília</city>
+            <id>12556</id>
+        </server>
+    </region>
+</speedtest_servers>
